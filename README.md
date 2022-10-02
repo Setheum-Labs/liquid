@@ -6,7 +6,7 @@ LiquidAir is Setheum's Super Protocol for One-Stop Cross-Chain Liquid Derivative
 
 ## Liquid Derivatives:
 
-### LiquidAirables - LA-Tokens: These are Liquidity tokens issued when `ground_liquidity`(normal tokens locked) is deposited in LiquidAir as ZIMS colateral or Slixon liquidity.
+### LiquidAirables - LA-Tokens: These are Liquidity tokens issued when `ground_liquidity` is deposited in LiquidAir as ZIMS colateral or Slixon liquidity.
 ```
 LA_LAIR("LiquidAirable LAIR", 18),
 LA_SET("LiquidAirable SET", 18),
