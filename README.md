@@ -6,36 +6,44 @@ LiquidAir is Setheum's Super Protocol for One-Stop Cross-Chain Liquid Derivative
 
 ## Liquid Derivatives:
 
-### LiquidAir Tokens - LA-Tokens: These are Liquidity tokens issued when `ground_liquidity`(normal tokens locked) is deposited in LiquidAir.
+### LiquidAirables - LA-Tokens: These are Liquidity tokens issued when `ground_liquidity`(normal tokens locked) is deposited in LiquidAir as ZIMS colateral or Slixon liquidity.
 ```
-LA_LAIR("LiquidAir LAIR", 18),
-LA_SET("LiquidAir SET", 18),
-LA_SLIX("LiquidAir SLIX", 18),
-LA_SIOT("LiquidAir SIOT", 18),
-LA_CIO("LiquidAir CIO", 18),
-LA_ZIMS("LiquidAir ZIMS", 18),
-LA_USSD("LiquidAir USSD", 18),
-LA_SETR("LiquidAir SETR", 18),
-LA_WBTC("LiquidAir WBTC", 9),
-LA_BNB("LiquidAir BNB", 18),
-LA_DOT("LiquidAir DOT", 18),
-LA_KSM("LiquidAir KSM", 18),
-LA_ETH("LiquidAir ETH", 18),
-LA_MATIC("LiquidAir MATIC", 18),
-LA_AVAX("LiquidAir AVAX", 18),
+LA_LAIR("LiquidAirable LAIR", 18),
+LA_SET("LiquidAirable SET", 18),
+LA_SLIX("LiquidAirable SLIX", 18),
+LA_SIOT("LiquidAirable SIOT", 18),
+LA_CIO("LiquidAirable CIO", 18),
+LA_ZIMS("LiquidAirable ZIMS", 18),
+LA_USSD("LiquidAirable USSD", 18),
+LA_SETR("LiquidAirable SETR", 18),
+LA_WBTC("LiquidAirable WBTC", 9),
+LA_BNB("LiquidAirable BNB", 18),
+LA_DOT("LiquidAirable DOT", 18),
+LA_KSM("LiquidAirable KSM", 18),
+LA_ETH("LiquidAirable ETH", 18),
+LA_MATIC("LiquidAirable MATIC", 18),
+LA_AVAX("LiquidAirable AVAX", 18),
+LA_SOL("LiquidAirable SOL", 18),
+LA_GLMR("LiquidAirable GLMR", 18),
+LA_ASTR("LiquidAirable ASTR", 18),
 ```
 
 ## Supported Protocols:
-
-- DEX - Slixon: Liquidity derived from Slixon LP-Tokens.
-- DeFi Loans - ZIMS: Liquid Collaterals in ZIMS.
+- DEX - LiquidSlixon: Liquidity derived from Slixon LP-Tokens.
+- DeFi Loans - LiquidZIMS: Liquid Collaterals in ZIMS.
 - Staking - LiquidSET: Liquid Staking for SET.
 
-## Compatible Chains - Cross-Chain:
+## Compatible Chains/Tokens - Cross-Chain:
+- Bitcoin BTC
+- Ethereum ETH
+- Polygon MATIC
+- Binance Smart Chain BNB
+- Avalanche AVAX
+- Polkadot DOT
+- Kusama KSM
+- Solana SOL
+- Moonbeam GLMR
+- Astar ASTR
 
-- Ethereum
-- Polygon
-- Binance Smart Chain
-- Avalanche
-- Polkadot
-- Kusama
+## LICENSE
+
