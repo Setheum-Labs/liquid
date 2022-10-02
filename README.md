@@ -46,4 +46,4 @@ LA_ASTR("LiquidAirable ASTR", 18),
 - Astar ASTR
 
 ## LICENSE
-
+The primary license for LiquidAir is the Business Source License 1.1 (BUSL-1.1), see [LICENSE](https://github.com/Setheum-Labs/LiquidAir/blob/main/LICENSE.md).
