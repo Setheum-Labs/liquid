@@ -1,4 +1,6 @@
-# LiquidAir
+# LiquidAir - Powering DeFi Liquid Derivatives.
+
+⚠️WIP - Work In Progress, Not Production Ready!
 
 LiquidAir is Setheum's Super Protocol for One-Stop Cross-Chain Liquid Derivatives.
 
@@ -22,8 +24,6 @@ LA_ETH("LiquidAir ETH", 18),
 LA_MATIC("LiquidAir MATIC", 18),
 LA_AVAX("LiquidAir AVAX", 18),
 ```
-
-### Airable Tokens - AL-Tokens: These are
 
 ## Supported Protocols:
 
