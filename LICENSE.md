@@ -1,3 +1,5 @@
+بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم
+
 Business Source License 1.1
 
 License text copyright (c) 2017 MariaDB Corporation Ab, All Rights Reserved.
