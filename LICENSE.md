@@ -1,3 +1,5 @@
+بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم
+
 Business Source License 1.1
 
 License text copyright (c) 2017 MariaDB Corporation Ab, All Rights Reserved.
@@ -10,7 +12,7 @@ Parameters
 Licensor:             Setheum Labs
 
 Licensed Work:        LiquidAir Protocol
-                      The Licensed Work is (c) 2022-Present Setheum Labs
+                      The Licensed Work is (c) 2019-Present Setheum Labs
 
 Additional Use Grant: Any uses listed and defined at [https://github.com/Setheum-Labs/LiquidAir/blob/main/BSL-ADDITIONAL-USE-GRANT.md](https://github.com/Setheum-Labs/LiquidAir/blob/main/BSL-ADDITIONAL-USE-GRANT.md)
 

@@ -1,3 +1,5 @@
+بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم
+
 # LiquidAir - Powering DeFi Liquid Derivatives.
 
 ⚠️WIP - Work In Progress, Not Production Ready!
