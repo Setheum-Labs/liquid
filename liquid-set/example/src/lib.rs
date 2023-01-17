@@ -1,6 +1,6 @@
 // بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم
 //
-// This file is part of LiquidAir.
+// This file is part of Khalifa Liquid.
 //
 // Copyright (C) 2019-Present Setheum Labs.
 // SPDX-License-Identifier: BUSL-1.1 (Business Source License 1.1)
