@@ -11,10 +11,10 @@ Parameters
 
 Licensor:             Setheum Labs
 
-Licensed Work:        LiquidAir Protocol
+Licensed Work:        Khalifa Liquid Protocol
                       The Licensed Work is (c) 2019-Present Setheum Labs
 
-Additional Use Grant: Any uses listed and defined at [https://github.com/Setheum-Labs/LiquidAir/blob/main/BSL-ADDITIONAL-USE-GRANT.md](https://github.com/Setheum-Labs/LiquidAir/blob/main/BSL-ADDITIONAL-USE-GRANT.md)
+Additional Use Grant: Any uses listed and defined at [https://github.com/Khalifa-Blockchain/Khalifa Liquid/blob/main/BSL-ADDITIONAL-USE-GRANT.md](https://github.com/Khalifa-Blockchain/Khalifa Liquid/blob/main/BSL-ADDITIONAL-USE-GRANT.md)
 
 Change Date:          December 31, 2025
 
